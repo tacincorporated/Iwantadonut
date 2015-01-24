@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">I Want A Donut</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="action_about">Tell me about your craving</string>
 
 </resources>
